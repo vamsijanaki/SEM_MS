@@ -1,9 +1,7 @@
-## Infix LMS
-Build skills with courses, certificates, and degrees online from world-class universities and companies.
+## SEM Management System
+@@ Using Boilerplate of Infix
 
-- Learn the latest skills.
-- Get ready for a career.
-- Earn a certificate or degree. 
+SEM Management System is being developed by Globallynks.
  
 ## Contributing
 
